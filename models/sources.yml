@@ -1,0 +1,9 @@
+sources:
+  - name: raw
+    database: RAW
+    schema: PUBLIC
+
+    tables:
+      - name: transactions
+
+
